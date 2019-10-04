@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a65a828a997c11547bd4a067a12f6ae8, type: 3}
+  m_Name: DebugatronSettings
+  m_EditorClassIdentifier: 
+  DefaultGroupName: Default
+  DefaultGroupTitleColor: {r: 0, g: 0, b: 0, a: 0}
+  DefaultGroupTextColor: {r: 0, g: 0, b: 0, a: 0}
+  DebugAllowed: 0
+  AutoInit: 1
+  LogErrorExceptionAllowed: 1
+  EnableTimestamp: 0
+  ExternalizeStrings: 1
+  TimestampColor: {r: 0.995283, g: 1, b: 0.9964454, a: 1}
+  AllowNewGroups: 1
+  AutoCreate: 0
+  NewGroupPersistence: 1
+  StoreDebug: 1
+  AutoDump: 0
+  OutputToDesktop: 0
+  OutputToProject: 1
+  OutputToPersistentPath: 0
+  CustomOutputPath: 0
+  DumpOutputPath: 
